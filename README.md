@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Figma, nextJs, tailwindCSS, more about react hooks and styled components, docker and kubernetes and microfrontends.**
+- 🌱 I’m currently learning **Figma, nextJs, tailwindCSS, more about react hooks and styled components, docker and kubernetes, graphQL, sanityCMS and microfrontends.**
 
 - 👯 I’m looking to collaborate on **the community sharing knowledge, talking about frontend development**
 
